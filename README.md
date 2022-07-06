@@ -50,3 +50,4 @@ docs/        → Project report, block diagrams, pipeline stages
 ## License
 
 This project is for academic and learning purposes under MIT license.
+
