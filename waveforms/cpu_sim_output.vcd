@@ -1,0 +1,12 @@
+$timescale 1ns $end
+$scope module alu $end
+$var wire 32 a a $end
+$var wire 32 b b $end
+$var wire 32 result r $end
+$upscope $end
+$enddefinitions $end
+#0
+b00000000000000000000000000000001 a
+b00000000000000000000000000000010 b
+#10
+b00000000000000000000000000000011 r

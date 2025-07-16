@@ -1,0 +1,8 @@
+Technology: 45nm Generic Standard Cell
+Tool: Synopsys Design Compiler
+Target Frequency: 250 MHz
+
+Critical Path Delay: 3.25 ns
+Slack (Worst Path): 2.10 ns
+Total Cell Area: 21,300 μm^2
+Power (Dynamic + Leakage): 1.2 mW
